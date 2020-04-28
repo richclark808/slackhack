@@ -11,3 +11,10 @@ DX package install: https://login.salesforce.com/packaging/installPackage.apexp?
 # Warranty
 
 The contents of this repo is for demonstration and self education of the principles and potential techniques for integration of Salesforce with Slack and no warranty or liability is accepted. See also the public license information.
+
+# Credits
+This repo was inspired by the work shared by Christophe Coeraets on his blog series at http://coenraets.org/blog/2016/01/slack-salesforce-integration/
+
+Also recommend the trailhead module https://trailhead.salesforce.com/content/learn/modules/slack-dev-basics
+and Slack API documentation on formatting of message posts, including use of the templates at https://api.slack.com/docs/messages/builder
+
