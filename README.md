@@ -1,6 +1,6 @@
 # Salesforce Slack Integration Demo project
 
-This guide helps Salesforce developers who want to implement custom integration with Slack. First presented at the Xforce Summit 2020 on the 30th April 2020.
+This guide helps Salesforce developers who want to implement custom integration with Slack. First presented at the Xforce Summit 2020 on the 29th April 2020.
 
 # Installation
 
